@@ -30,8 +30,8 @@
 
 
 ## FOR RUN TOOL :
-cd M_U_S
-python maous.py
+* `cd M_U_S`
+* `python maous.py`
 
 
 
