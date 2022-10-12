@@ -9,7 +9,7 @@
 
 ### Facebook :
 <p align="center"> 
-<a href="https://www.facebook.com/ekramul.hassan.79827"><img title="FaceBook" src="https://img.shields.io/badge/FB-Ekramul Hassan-lightgrey?style=for-the-badge&logo=facebook"></a>
+<a href="https://www.facebook.com/mao2116"><img title="FaceBook" src="https://img.shields.io/badge/FB-MAO COMMUNITY-lightgrey?style=for-the-badge&logo=facebook"></a>
 </p>
 
 
@@ -26,7 +26,7 @@
 * `ls`
 
 ## ONE CLICK INSTALLATION :
-* `apt-get update -y && apt-get upgrade -y &&  apt install git -y && git clone --depth=1 https://github.com/mao2116/M_U_S && cd M_U_S `
+* `apt-get update -y && apt-get upgrade -y &&  apt install git python -y && git clone --depth=1 https://github.com/mao2116/M_U_S && cd M_U_S `
 
 
 ## FOR RUN TOOL :
