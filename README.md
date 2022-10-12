@@ -18,15 +18,15 @@
 
 * `apt-get update -y`
 * `apt-get upgrade -y`
-* `pkg install git -y`
-* `pkg insall python -y`
+* `apt install git -y`
+* `apt insall python -y`
 * `pip install requests`
 * ` git clone --depth=1 https://github.com/mao2116/M_U_S`
 * `cd M_U_S`
 * `ls`
 
 ## ONE CLICK INSTALLATION :
-* `apt-get update -y && apt-get upgrade -y &&  pkg install git -y && git clone --depth=1 https://github.com/mao2116/M_U_S && cd M_U_S `
+* `apt-get update -y && apt-get upgrade -y &&  apt install git -y && git clone --depth=1 https://github.com/mao2116/M_U_S && cd M_U_S `
 
 
 ## FOR RUN TOOL :
